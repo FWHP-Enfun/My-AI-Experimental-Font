@@ -1,5 +1,9 @@
 # 我的Ai實驗字體 My AI Experimental Font
 
+製作目的是展現我的字體想法和成果
+
+The purpose of this project is to showcase my concepts and results regarding type design.
+
 畫幾百和幾千個中文字非常累，自己用zi2zi總是失敗，我打算去Ai補字網站花錢買他們的技術生字
 
 Drawing hundreds or thousands of Chinese characters is extremely exhausting, and my own attempts using *zi2zi* kept failing. I plan to pay an AI-based character generation service to create the characters I need.
@@ -41,3 +45,8 @@ You are free to modify, derive and publish this font. Modified fonts must also b
 * 依照 [SIL OFL](https://scripts.sil.org/OFL) 規定，禁止單獨出售字型檔(ttf/otf)，意思是不要盜賣字體，不要躺著貪心賺錢，要尊重製作字體公司和補改字的人。
 
 According to the regulations of [SIL OFL](https://scripts.sil.org/OFL), it is forbidden to sell font files (ttf/otf) separately, which means do not steal and sell fonts, do not lie greedy for money, and respect font companies and A person who corrects words.
+
+# 網站截圖 Website Screenshot
+
+![](https://github.com/FWHP-Enfun/My-AI-Experimental-Font/blob/main/Font2Art.png)
+![](https://github.com/FWHP-Enfun/My-AI-Experimental-Font/blob/main/AiZitijia.png)
